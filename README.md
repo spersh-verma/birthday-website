@@ -18,15 +18,15 @@ A beautiful, interactive birthday website template built with **React + TypeScri
 To use this template, either **Fork** it on GitHub or clone it locally:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/spersh-verma/birthday-website.git
+cd birthday-website
 ```
 
 ### 2. Install dependencies
 
 ```bash
-cd app
 npm install
+npm run dev
 ```
 
 ### 2. Customize the website
@@ -69,7 +69,7 @@ Deploy the `dist/` folder to Vercel, Netlify, or any static host.
 ## 📁 Project Structure
 
 ```
-app/
+/
 ├── public/           # Images, music, GIFs
 ├── src/
 │   ├── config.ts     # ⭐ EDIT THIS to customize
