@@ -4,7 +4,6 @@ A beautiful, interactive birthday website template built with **React + TypeScri
 
 ## ✨ Features
 
-- 🔒 Password-protected entry gate
 - 🧩 Interactive captcha challenge with custom stickers
 - 📖 Animated photo book with flip navigation
 - 🎂 Candle blowing with countdown, confetti, and cherry blossom fall
